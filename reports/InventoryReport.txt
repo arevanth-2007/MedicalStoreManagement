@@ -1,0 +1,30 @@
+==============================================================================
+                         INVENTORY AUDIT REPORT                               
+                      Generated: 2026-07-15 20:43:38
+==============================================================================
+
+SUMMARY STATISTICS:
+-------------------
+Total Medicine Catalog Size : 6
+Out Of Stock Products       : 1
+Low Stock Products (< 10)   : 2
+Expired Products            : 1
+Near Expiry Products (3 mo) : 1
+
+1. OUT OF STOCK MEDICINES:
+--------------------------
+ - ID: MED005 | Name: Lipitor | Company: Viatris
+
+2. LOW STOCK MEDICINES (<10 units):
+-----------------------------------
+ - ID: MED002 | Name: Amoxicillin | Qty Left: 3
+ - ID: MED006 | Name: Dolo650 | Qty Left: 7
+
+3. EXPIRED MEDICINES:
+---------------------
+ - ID: MED003 | Name: Cough Syrup | Expired On: 2025-12-31
+
+4. NEAR EXPIRY MEDICINES (Within 3 Months):
+-------------------------------------------
+ - ID: MED004 | Name: Aspirin | Expires On: 2026-08-30
+==============================================================================

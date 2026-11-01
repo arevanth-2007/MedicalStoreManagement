@@ -1,0 +1,3 @@
+SUPP001|PharmaDistributors|9998887776|info@pharmadist.com|Industrial Area, Sector 5
+SUPP002|MedLife Wholesale|8887776665|sales@medlifewholesale.com|Trade Center, Tower B
+SUPP003|Global Health Inc|7776665554|contact@globalhealth.com|Biotech Park, Building 3

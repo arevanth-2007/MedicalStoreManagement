@@ -1,0 +1,7 @@
+MED001|Paracetamol|GSK|Tablet|B101|2026-01-01|2027-12-31|15.50|73|Pain reliever & fever reducer
+MED002|Amoxicillin|Abbott|Capsule|B202|2025-06-15|2026-12-31|45.00|0|Antibiotic (Low stock alert)
+MED003|Cough Syrup|Pfizer|Syrup|B303|2024-01-10|2025-12-31|85.00|80|Relief for cough (Expired medicine)
+MED004|Aspirin|Bayer|Tablet|B404|2025-02-20|2026-08-30|22.00|52|Blood thinner and pain killer (Near expiry)
+MED005|Lipitor|Viatris|Tablet|B505|2025-03-01|2028-03-01|120.00|0|Cholesterol lowering (Out of stock)
+MED006|Dolo650|Micro Labs|Tablet|B001|2026-07-15|2028-07-15|15.00|0|Fever Tablet
+med008|tab|tab|tab|9bat09|2026-12-25|2028-12-25|25.00|63|tab

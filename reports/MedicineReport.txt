@@ -1,0 +1,14 @@
+==============================================================================
+                         MEDICINE DIRECTORY REPORT                            
+                      Generated: 2026-07-15 20:43:21
+==============================================================================
+
+ID        Name                Company        Category         Price  Quantity
+------------------------------------------------------------------------------
+MED001    Paracetamol         GSK            Tablet           15.50       150
+MED002    Amoxicillin         Abbott         Capsule          45.00         3
+MED003    Cough Syrup         Pfizer         Syrup            85.00        80
+MED004    Aspirin             Bayer          Tablet           22.00       120
+MED005    Lipitor             Viatris        Tablet          120.00         0
+MED006    Dolo650             Micro Labs     Tablet           15.00         7
+==============================================================================

@@ -1,0 +1,3 @@
+CUST001|John Doe|9876543210|123 Baker Street, London|
+CUST002|Jane Smith|8765432109|456 Elm Street, New York|
+CUST003|Robert Johnson|7654321098|789 Oak Avenue, Chicago|
